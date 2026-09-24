@@ -1,86 +1,105 @@
-# Task 17 -- Monthly Sales Trend
+# Task 17 – Monthly Sales Trend
 
 ## Objective
 
-Summarize sales by month and visualize the trend using Microsoft Excel.
+Summarize sales by month and visualize the monthly sales trend using Microsoft Excel.
 
 ## Dataset
 
-Sample Superstore dataset containing Order Date, Sales, Customer,
-Region, Category, Product, Quantity, Discount and Profit information.
+Sample Superstore Dataset.
+
+The dataset contains information such as:
+
+- Order Date
+- Ship Date
+- Customer
+- Region
+- Category
+- Product
+- Sales
+- Quantity
+- Discount
+- Profit
 
 ## Tools Used
 
-Microsoft Excel
-
-PivotTable
-
-Line Chart
+- Microsoft Excel
+- PivotTable
+- Line Chart
 
 ## Work Performed
 
-1. Data Preparation
+### 1. Data Preparation
 
-Verified the Order Date and Sales columns.
+- Opened the Sample Superstore dataset in Excel.
+- Verified the Order Date and Sales columns.
+- Formatted the date fields so that the dates were displayed correctly.
 
-Formatted the date fields for correct display.
+### 2. Monthly Sales Summary
 
-2. Monthly Sales Summary
+Created a PivotTable with:
 
-Created one PivotTable with: - Rows: Order Date grouped by Month -
-Values: Sum of Sales
+- Rows: Order Date grouped by Month
+- Values: Sum of Sales
 
 The months were arranged chronologically from January to December.
 
-3. Visualization
+### 3. Visualization
 
-Created one line chart titled Monthly Sales Trend. - X-axis: Month -
-Y-axis: Sales
+Created a Line Chart titled:
+
+**Monthly Sales Trend**
+
+Axis details:
+
+- X-axis: Month
+- Y-axis: Sales
 
 ## Monthly Sales Summary
 
-Month                          Sales
-
-January                    94,924.84
-February                   59,751.25
-March                     205,005.49
-April                     137,762.13
-May                       155,028.81
-June                      152,718.68
-July                      147,238.10
-August                    159,044.06
-September                 307,649.95
-October                   200,322.98
-November                  352,461.07
-December                  325,293.50
-Grand Total     2,297,200.86
+| Month | Sales |
+|---|---:|
+| January | 94,924.84 |
+| February | 59,751.25 |
+| March | 205,005.49 |
+| April | 137,762.13 |
+| May | 155,028.81 |
+| June | 152,718.68 |
+| July | 147,238.10 |
+| August | 159,044.06 |
+| September | 307,649.95 |
+| October | 200,322.98 |
+| November | 352,461.07 |
+| December | 325,293.50 |
+| **Grand Total** | **2,297,200.86** |
 
 ## Key Findings
 
-September recorded monthly sales of approximately 307,649.95.
-
-February recorded monthly sales of approximately 59,751.25.
-
-Sales increased sharply from August to September.
-
-November and December recorded relatively high monthly sales.
-
-The line chart shows noticeable fluctuations across the months.
+- September recorded monthly sales of approximately **307,649.95**.
+- February recorded monthly sales of approximately **59,751.25**.
+- Sales increased sharply from August to September.
+- November and December recorded relatively high monthly sales.
+- The line chart shows noticeable fluctuations across the months.
 
 ## Deliverables
 
-Monthly Sales PivotTable
+- Monthly Sales PivotTable
+- Monthly Sales Trend Line Chart
+- Key Findings
 
-Monthly Sales Trend line chart
+## Skills Practiced
 
-## Key findings
-
-Skills Practiced
-
-Excel PivotTables, date grouping, monthly aggregation, chronological
-sorting, line charts, and sales trend analysis.
+- Excel PivotTables
+- Date grouping
+- Monthly aggregation
+- Chronological sorting
+- Data visualization
+- Line chart creation
+- Sales trend analysis
 
 ## Conclusion
 
-This task demonstrated how Excel can transform order-level sales data
-into a monthly summary and clear trend visualization.
+This task demonstrated how Excel can be used to transform order-level sales data into a monthly summary and visualize sales trends using a line chart.
+
+## Screenshots
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/e4b28d6b-f432-4359-8af3-381a054b4535" />
