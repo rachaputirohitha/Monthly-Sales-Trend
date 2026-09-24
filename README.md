@@ -1,15 +1,15 @@
-Task 17 -- Monthly Sales Trend
+# Task 17 -- Monthly Sales Trend
 
-Objective
+## Objective
 
 Summarize sales by month and visualize the trend using Microsoft Excel.
 
-Dataset
+## Dataset
 
 Sample Superstore dataset containing Order Date, Sales, Customer,
 Region, Category, Product, Quantity, Discount and Profit information.
 
-Tools Used
+## Tools Used
 
 Microsoft Excel
 
@@ -17,7 +17,7 @@ PivotTable
 
 Line Chart
 
-Work Performed
+## Work Performed
 
 1. Data Preparation
 
@@ -37,7 +37,7 @@ The months were arranged chronologically from January to December.
 Created one line chart titled Monthly Sales Trend. - X-axis: Month -
 Y-axis: Sales
 
-Monthly Sales Summary
+## Monthly Sales Summary
 
 Month                          Sales
 
@@ -55,7 +55,7 @@ November                  352,461.07
 December                  325,293.50
 Grand Total     2,297,200.86
 
-Key Findings
+## Key Findings
 
 September recorded monthly sales of approximately 307,649.95.
 
@@ -67,20 +67,20 @@ November and December recorded relatively high monthly sales.
 
 The line chart shows noticeable fluctuations across the months.
 
-Deliverables
+## Deliverables
 
 Monthly Sales PivotTable
 
 Monthly Sales Trend line chart
 
-Key findings
+## Key findings
 
 Skills Practiced
 
 Excel PivotTables, date grouping, monthly aggregation, chronological
 sorting, line charts, and sales trend analysis.
 
-Conclusion
+## Conclusion
 
 This task demonstrated how Excel can transform order-level sales data
 into a monthly summary and clear trend visualization.
